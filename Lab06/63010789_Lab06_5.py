@@ -1,7 +1,7 @@
 def pyramid(x,i):
     x = int(x)
     f="_"
-    b="#"
+    b="#" 
     if x>0 and i<x+1:
         f*=(x-i)
         b*=i
